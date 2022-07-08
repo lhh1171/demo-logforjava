@@ -1,0 +1,4 @@
+[ERROR][2022-07-08 21:38:31,960][com.itos.LogginHelperOps]Sorry, something wrong in your calculation!
+java.lang.ArithmeticException: / by zero
+	at com.itos.LogginHelperOps.divide(LogginHelperOps.java:30)
+	at com.itos.LogginHelperOps.main(LogginHelperOps.java:19)
